@@ -32,3 +32,25 @@
     - Implementación del circuito Thevenin
 
     ![image](https://user-images.githubusercontent.com/76132461/108272931-e512eb00-7140-11eb-907e-bdb11437ad38.png)
+
+
+     4.- Lista de componentes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

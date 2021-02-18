@@ -87,9 +87,16 @@ Con la misma conexión que hicimos anteriormente se coloca el multímetro en Res
 Con el resultado que nos dio en el punto 5.4. se deja esa resistencia, con una sola fuente de voltaje con el valor que medimos en el punto 5.3. a continuacióm, se conecta en serie con la R5.
 
   6. Tabla de valores del Circuito Equivalente de Thévenin.
-
+  
+![image](https://user-images.githubusercontent.com/76132461/108285611-78eeb200-7155-11eb-93a6-cdcd8d0634ec.png)
   
   7. Tabla de comprobación del Teorema de Thévenin
+
+![image](https://user-images.githubusercontent.com/76132461/108285618-8015c000-7155-11eb-8c38-c12fd25cbe4a.png)
+
+  8. Bibliografía
+
+Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
 
 
 

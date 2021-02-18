@@ -70,13 +70,26 @@
 
    14. Con esos valores, se procede a hacer el circuito equivalente de Thevenin, con la resistencia de 299 ohms, el voltaje de 5 V y la resistencia de 1 kohm.
 
+  5.2.- Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla
+  
+    Para medir el voltaje se tiene que conectar el voltímetro en paralelo a la resistencia y para medir la corriente se conecta en paralelo, poniendo la primera terminal al extremo de la R4 y la otra terminal al inicio de la R5.
+    
+  5.3.- Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla
 
+    Para medir el voltaje se coloca en la R4 la terminal del multímetro y la otra terminal hacia la R3.
+    
+  5.4.- Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla
 
+Con la misma conexión que hicimos anteriormente se coloca el multímetro en Resistencia, y las fuentes de voltaje se las deja con un valor de 0.
 
+  5.5.- Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla
 
+Con el resultado que nos dio en el punto 5.4. se deja esa resistencia, con una sola fuente de voltaje con el valor que medimos en el punto 5.3. a continuacióm, se conecta en serie con la R5.
 
+  6. Tabla de valores del Circuito Equivalente de Thévenin.
 
-
+  
+  7. Tabla de comprobación del Teorema de Thévenin
 
 
 

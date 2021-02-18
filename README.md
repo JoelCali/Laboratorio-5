@@ -96,7 +96,16 @@ Con el resultado que nos dio en el punto 5.4. se deja esa resistencia, con una s
 
 ![image](https://user-images.githubusercontent.com/76132461/108285618-8015c000-7155-11eb-8c38-c12fd25cbe4a.png)
 
-  8. Bibliografía
+  8. Conclusiones
+
+ * Sin la ayuda de los instrumentos de medición como el amperímetro o voltímetro nuestros datos no serian concretos, ya que estos nos ayudan en los cálculos de varios métodos como por ejemplo el calculo con la ayuda de mallas.
+  
+ * El comportamiento del circuito al hacer cero las dos fuentes, dio la disponibilidad de un análisis mucho mas breve ya que se disminuían los elementos en el mismo.
+
+ * En conclusión, al usar el método de Thevenin y el método de resolución por mallas, se observo que arrojaba un mínimo error ya que los valores calculados eran casi exactos.
+
+
+  10. Bibliografía
 
 Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
 
